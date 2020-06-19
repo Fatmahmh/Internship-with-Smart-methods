@@ -12,7 +12,7 @@ So I will start to complete the tasks from here.
 ### 1.To Install Robot Operating System for Ubuntu 20.04 :
 For the Recommended Complete Bundle use:
 ``` sudo apt install ros-desktop-full ``` 
-\
+
 
 Then Initialize Rosedep Tool by :
 ``` sudo rosdep init ```
