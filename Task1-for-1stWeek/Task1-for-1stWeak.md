@@ -16,11 +16,11 @@ For the Recommended Complete Bundle use:
 
 Then Initialize Rosedep Tool by :
 ``` sudo rosdep init ```
-\
+
 
 run this command  Update it: 
  ``` rosdep update ```
- \
+ 
 
 now we need to Setting Up Path 
 
@@ -30,32 +30,32 @@ now we need to Setting Up Path
 2. ### To Install Pycharm 
 Open a Terminal window and execution of the bellow command
 ```  sudo snap install pycharm-community --classic ``` 
-\
+
 
 PyCharm should be installed you can start PyCharm by:
 ```  pycharm-community ``` 
-\
+
 
 
 ##### Now if Python is not installed you can install it by :
  ```  sudo apt-get install python3 ``` 
-\
+
 
 ### 3. To Install Tensorflow :
 
   1. Install python3 pip by -
 ``` sudo apt-get install python3-pip``` 
-\
+
 
   2. Install Tensorflow by -
 ```  pip3 install tensorflow ``` 
-\
+
 
 
 ### 4. To Install OpenCV :-
 
 ```  sudo apt install python3-opencv ``` 
-\
+
 
 To verify the installation:
 ```  python3 -c "import cv2; print(cv2.__version__)" ```  
