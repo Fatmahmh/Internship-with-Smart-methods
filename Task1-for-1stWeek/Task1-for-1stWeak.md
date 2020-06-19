@@ -74,7 +74,7 @@ To verify the installation:
 
 
 
-<right>
+<p align="right">
 
 # مهام الاسبوع الاول
 * على نظام لينكس توزيعة ابونتو 
@@ -151,6 +151,5 @@ To verify the installation:
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG)
 
 
-<right>
-
+</p>
 
