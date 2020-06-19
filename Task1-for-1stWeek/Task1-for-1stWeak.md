@@ -9,6 +9,7 @@
 I'm Already Installed Ubuntu-20.04 on Virtualbox
 So I will start to complete the tasks from here.
 
+
 ### 1.To Install Robot Operating System for Ubuntu 20.04 :
 For the Recommended Complete Bundle use:
 ``` sudo apt install ros-desktop-full ``` 
@@ -27,6 +28,7 @@ we need to Setting Up Path
 
 
 
+
 ### 2. To Install Pycharm 
 Open a Terminal window and execution of the bellow command
 ```  sudo snap install pycharm-community --classic ``` 
@@ -37,8 +39,10 @@ PyCharm should be installed you can start PyCharm by:
 
 
 
+
 ##### If Python is not installed you can install it by :
  ```  sudo apt-get install python3 ``` 
+
 
 
 ### 3. To Install Tensorflow :
@@ -49,6 +53,7 @@ PyCharm should be installed you can start PyCharm by:
 
   2. Install Tensorflow by 
 ```  pip3 install tensorflow ``` 
+
 
 
 
