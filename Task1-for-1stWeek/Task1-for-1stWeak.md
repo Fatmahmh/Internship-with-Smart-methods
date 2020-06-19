@@ -52,8 +52,8 @@ PyCharm should be installed you can start PyCharm by:
 
   2. Install Tensorflow by 
 ```  pip3 install tensorflow ``` 
-https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/TensorFlow-Installation.PNG
-
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/TensorFlow-Installation.PNG
+) 
 
 
 
@@ -64,7 +64,8 @@ Run the following command ```  sudo apt install python3-opencv ```
 
 To verify the installation:
 ```  python3 -c "import cv2; print(cv2.__version__)" ```  
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG
 
-https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG
 
+) 
 
