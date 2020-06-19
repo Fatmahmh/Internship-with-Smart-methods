@@ -74,7 +74,6 @@ To verify the installation:
 
 
 
-<p align="right">
 
 # مهام الاسبوع الاول
 * على نظام لينكس توزيعة ابونتو 
@@ -84,8 +83,9 @@ To verify the installation:
   - تثبيت OpenCV
   
 
-قمت بتثبيت ابونتو لينكس كنظام وهمي على Virtualbox , 
-بالتالي لن اشرح كيفيه تثبيت النظام سأبدا من الشرح من بعد هذه النقطه 
+قمت بتثبيت ابونتو لينكس كنظام وهمي على
+Virtualbox , بالتالي لن اشرح كيفيه تثبيت النظام سأبدا من الشرح من بعد هذه النقطه
+ 
 
 
 ### 1.لتثبيت نظام ROS:
@@ -111,7 +111,7 @@ To verify the installation:
 ```  sudo snap install pycharm-community --classic ``` 
 
 
-الآن بعد تثبيت Pycharm  , بنقوم بتشغليه من خلال :
+الآن بعد تثبيته  , نقوم بتشغليه من خلال :  
 ```  pycharm-community ``` 
 
 
@@ -151,5 +151,4 @@ To verify the installation:
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG)
 
 
-</p>
 
