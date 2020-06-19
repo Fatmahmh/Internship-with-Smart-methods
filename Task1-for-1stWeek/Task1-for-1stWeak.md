@@ -73,7 +73,7 @@ To verify the installation:
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG)
 
 
-
+<div dir="rtl"> 
 
 # مهام الاسبوع الاول
 * نفذ الآتي على نظام لينكس توزيعة ابونتو 
@@ -150,5 +150,5 @@ Virtualbox , بالتالي لن اشرح كيفيه تثبيت النظام س�
 
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG)
 
-
+</div>
 
