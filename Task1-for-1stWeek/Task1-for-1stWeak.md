@@ -43,18 +43,18 @@ PyCharm should be installed you can start PyCharm by:
 
 ### 3. To Install Tensorflow :
 
-  1. Install python3 pip by -
+  1. Install python3 pip by 
 ``` sudo apt-get install python3-pip``` 
 
 
-  2. Install Tensorflow by -
+  2. Install Tensorflow by 
 ```  pip3 install tensorflow ``` 
 
 
 
 ### 4. To Install OpenCV :-
 
-```  sudo apt install python3-opencv ``` 
+Run the following command ```  sudo apt install python3-opencv ``` 
 
 
 To verify the installation:
