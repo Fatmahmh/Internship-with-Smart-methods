@@ -23,7 +23,6 @@ Update it by :
  ``` rosdep update ```
  
 
-we need to Setting Up Path 
 
 
 
