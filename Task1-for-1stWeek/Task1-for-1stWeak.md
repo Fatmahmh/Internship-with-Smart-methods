@@ -74,6 +74,8 @@ To verify the installation:
 
 
 
+<right>
+
 # مهام الاسبوع الاول
 * على نظام لينكس توزيعة ابونتو 
   - تثبيت نظام ROS 
@@ -149,6 +151,6 @@ To verify the installation:
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/Task1-for-1stWeek/OpenCV-Installation.PNG)
 
 
-
+<right>
 
 
