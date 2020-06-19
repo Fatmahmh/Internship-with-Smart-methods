@@ -18,16 +18,16 @@ Then Initialize Rosedep Tool by :
 ``` sudo rosdep init ```
 
 
-run this command  Update it: 
+Update it by : 
  ``` rosdep update ```
  
 
-now we need to Setting Up Path 
+we need to Setting Up Path 
 
 
 
 
-2. ### To Install Pycharm 
+### 2. To Install Pycharm 
 Open a Terminal window and execution of the bellow command
 ```  sudo snap install pycharm-community --classic ``` 
 
@@ -37,7 +37,7 @@ PyCharm should be installed you can start PyCharm by:
 
 
 
-##### Now if Python is not installed you can install it by :
+##### If Python is not installed you can install it by :
  ```  sudo apt-get install python3 ``` 
 
 
