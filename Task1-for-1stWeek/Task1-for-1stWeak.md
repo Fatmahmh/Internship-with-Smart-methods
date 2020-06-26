@@ -1,4 +1,4 @@
-# Task1 for 1st Week
+# 1st Week Tasks
 * Working with ubuntu 20.04 as VM
   - Install ROS
   - Install Pycharm or any Python IDE
