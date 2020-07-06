@@ -37,6 +37,8 @@
 
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/ROS-simulation-turtleBot3/output2.PNG
 ) 
-![image](https://drive.google.com/uc?export=view&id=1GKe_pZYlBWLd-BUhvMF0lplc7uzU8q8o)
- https://drive.google.com/file/d/1GKe_pZYlBWLd-BUhvMF0lplc7uzU8q8o/view?usp=sharing
 
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1GKe_pZYlBWLd-BUhvMF0lplc7uzU8q8o/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
