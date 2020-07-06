@@ -11,7 +11,7 @@
 ) 
 * run  ```echo $ROS_PACKAGE_PATH ``` to make sure your workspace is properly overlayed by the setup script. 
 You will see something like this
-![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG = 100x20
 ) 
  
 ## -To Create a new package
