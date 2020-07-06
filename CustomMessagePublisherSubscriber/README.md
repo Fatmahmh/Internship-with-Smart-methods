@@ -11,8 +11,7 @@
  
 ## -To Create a new package
 
-#### Each package must have its own folder and The package must contain a catkin compliant package.xml file provides meta information about the package
-and CMakeLists.txt which uses catkin.
+#### Each package must have its own folder and The package must contain a catkin compliant package.xml file provides meta information about the package and CMakeLists.txt which uses catkin.
 
 * To create a new catkin package move to catkin workspace you created by : 
 ```$ cd ~/catkin_ws/src```
