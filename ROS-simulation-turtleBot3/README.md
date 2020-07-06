@@ -1,6 +1,6 @@
 ### TurtleBot3 simulator
 
-##### * To install the dependent packages run :
+##### *To install the dependent packages run :
 ``` cd ~/catkin_ws/src/ ``` 
 
  ``` git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git ``` 
@@ -16,7 +16,7 @@
 ###### reload .bashrc so that you do not have to log out and log back in.
 ``` source ~/.bashrc ```
 
-##### to download the TurtleBot3 simulation files.
+##### *to download the TurtleBot3 simulation files.
 ``` cd ~/catkin_ws/src/ ```
 
 ``` git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git ```
