@@ -1,6 +1,6 @@
 ### TurtleBot3 simulator
 
-##### *To install the dependent packages run :
+##### 1. To install the dependent packages run :
 ``` cd ~/catkin_ws/src/ ``` 
 
  ``` git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git ``` 
@@ -16,19 +16,19 @@
 ###### reload .bashrc so that you do not have to log out and log back in.
 ``` source ~/.bashrc ```
 
-##### *to download the TurtleBot3 simulation files.
+##### 2. to download the TurtleBot3 simulation files.
 ``` cd ~/catkin_ws/src/ ```
 
 ``` git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git ```
 
 ``` cd ~/catkin_ws && catkin_make ```
 
-#### * To launch the virtual robot using Gazebo
+#### 3. To launch the virtual robot using Gazebo
 
 ###### First,launch TurtleBot3 in an empty environment by : 
 
 ``` roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch ```
 
 
- ###### to control the movement of your TurtleBot 
+ ###### 4. to control the movement of your TurtleBot 
 
