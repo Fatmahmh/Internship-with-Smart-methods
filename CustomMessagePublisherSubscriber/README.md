@@ -18,8 +18,8 @@
 * use the catkin_create_pkg to create a new package called 'my-pkg' which depends on std_msgs and rospy:
 ``` $ catkin_create_pkg my-pkg std_msgs rospy```
 * you need to build the packages in the catkin workspace by:
-$ cd ~/catkin_ws
-$ catkin_make
+ ``` $ cd ~/catkin_ws ``` 
+ ``` $ catkin_make ``` 
 * add the workspace to your ROS environment you need to source the generated setup file:
 ``` $ . ~/catkin_ws/devel/setup.bash```
 
@@ -30,8 +30,8 @@ $ catkin_make
 * First Change directory into the package by:
 ``` $ roscd my-pkg ```
 * create a 'scripts' folder to store our Python scripts in:
-``` $ mkdir scripts
-    $ cd scripts ```
+``` $ mkdir scripts ```
+  ```  $ cd scripts ```
 * Then write your own Publisher Node code or download the example script talker.py to your new scripts directory and make it executable by :
 ``` $ wget https://raw.github.com/ros/ros_tutorials/kinetic-devel/rospy_tutorials/001_talker_listener/talker.py ```
 ``` $ chmod +x talker.py ```
