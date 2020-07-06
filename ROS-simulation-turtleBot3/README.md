@@ -11,6 +11,7 @@
 
 ##### TurtleBot3 has three models, you have to set which model you want to use before you launch TurtleBot3 by add this line at the bottom of the file:
 ``` gedit ~/.bashrc ```
+
 ``` export TURTLEBOT3_MODEL=burger ```
 ###### reload .bashrc so that you do not have to log out and log back in.
 ``` source ~/.bashrc ```
