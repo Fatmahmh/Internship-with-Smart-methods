@@ -27,7 +27,8 @@ You will see something like this
  ``` $ catkin_make ``` 
 * add the workspace to your ROS environment you need to source the generated setup file:
 ``` $ . ~/catkin_ws/devel/setup.bash```
-
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/CreatPKG.PNG
+)  
 ## - Create publisher & subscriber nodes using Python
 ### 1. Writing the Publisher Node :
 ##### we will make a publisher called "talker" and subscriber called "listener".
@@ -67,6 +68,24 @@ catkin_install_python(PROGRAMS scripts/talker.py scripts/listener.py
 ``` $ source ./devel/setup.bash  ```
 
 ####  1. Running the Publisher
-``` $ rosrun my-pkg talker.py ```   or move to the scripts folder then run ```Python3 talker.py ```
+``` $ rosrun my-pkg talker.py ```   or move to the scripts folder then run ```Python3 talker.py ``` 
+
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20publisher.PNG
+) 
 ####  2. Running the Subscriber
 ``` $ rosrun my-pkg listener.py```  or move to the scripts folder then run ``` Python3 listener.py``` 
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20subscriber.PNG
+) 
+
+
+
+The Graph of the Nodes 
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/GraphOfNodes.PNG
+) 
+
+To see the running Topic and Node : 
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rosnode.PNG
+) 
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rostopic.PNG
+) 
+
