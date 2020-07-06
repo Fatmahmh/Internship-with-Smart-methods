@@ -43,10 +43,11 @@
 ``` $ chmod +x listener.py ```
 
 * Then, edit the catkin_install_python() call in your CMakeLists.txt so it looks like the following:
-
-``` catkin_install_python(PROGRAMS scripts/talker.py scripts/listener.py
+```
+catkin_install_python(PROGRAMS scripts/talker.py scripts/listener.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-) ```
+) 
+```
 
 
 ## -Running the publisher and subscriber.
