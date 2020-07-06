@@ -6,8 +6,8 @@
  ``` $ cd ~/catkin_ws/ ```
 ``` $ catkin_make ```  
 * source the new setup.*sh file by:
-$ source devel/setup.bash
-* run echo $ROS_PACKAGE_PATH to make sure your workspace is properly overlayed by the setup script.
+``` $ source devel/setup.bash ```
+* run  ```echo $ROS_PACKAGE_PATH ``` to make sure your workspace is properly overlayed by the setup script.
  
 ## -To Create a new package
 
