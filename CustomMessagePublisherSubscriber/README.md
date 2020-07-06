@@ -79,13 +79,16 @@ catkin_install_python(PROGRAMS scripts/talker.py scripts/listener.py
 
 
 
-The Graph of the Nodes 
+##### The Graph of the Nodes 
+
  ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/GraphOfNodes.PNG
 ) 
 
-To see the running Topic and Node : 
+##### To see the running Topic and Node : 
+
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rosnode.PNG
 ) 
+
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rostopic.PNG
 ) 
 
