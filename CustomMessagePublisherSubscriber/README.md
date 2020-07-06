@@ -2,9 +2,9 @@
 
 
 * A ROS workspace build by the following commands:
-``` $ mkdir -p ~/catkin_ws/src
-$ cd ~/catkin_ws/
-$ catkin_make ```
+``` $ mkdir -p ~/catkin_ws/src ```
+ ``` $ cd ~/catkin_ws/ ```
+``` $ catkin_make ```  
 * source the new setup.*sh file by:
 $ source devel/setup.bash
 * run echo $ROS_PACKAGE_PATH to make sure your workspace is properly overlayed by the setup script.
