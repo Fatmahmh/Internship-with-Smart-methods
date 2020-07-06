@@ -11,7 +11,7 @@
 ) 
 * run  ```echo $ROS_PACKAGE_PATH ``` to make sure your workspace is properly overlayed by the setup script. 
 You will see something like this
-<img src="https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG" alt="drawing" width="200" height="30" />
+<img src="https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG" alt="drawing" width="500" height="90" />
 ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG=100x30
 ) 
  
