@@ -11,8 +11,8 @@
 ) 
 * run  ```echo $ROS_PACKAGE_PATH ``` to make sure your workspace is properly overlayed by the setup script. 
 You will see something like this
-<img src="https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG" alt="drawing" width="500" height="90" />
-![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG=100x30
+
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/PKGPath.PNG
 ) 
  
 ## -To Create a new package
@@ -28,7 +28,7 @@ You will see something like this
  ``` $ catkin_make ``` 
 * add the workspace to your ROS environment you need to source the generated setup file:
 ``` $ . ~/catkin_ws/devel/setup.bash```
- ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/CreatPKG.PNG = 100x30
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/CreatPKG.PNG
 )  
 ## - Create publisher & subscriber nodes using Python
 ### 1. Writing the Publisher Node :
@@ -71,25 +71,24 @@ catkin_install_python(PROGRAMS scripts/talker.py scripts/listener.py
 ####  1. Running the Publisher
 ``` $ rosrun my-pkg talker.py ```   or move to the scripts folder then run ```Python3 talker.py ``` 
 
-![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20publisher.PNG = 100x30
-) 
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20publisher.PNG 
 ####  2. Running the Subscriber
 ``` $ rosrun my-pkg listener.py```  or move to the scripts folder then run ``` Python3 listener.py``` 
- ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20subscriber.PNG = 100x30
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/Running%20the%20subscriber.PNG 
 ) 
 
 
 
 ##### The Graph of the Nodes 
 
- ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/GraphOfNodes.PNG = 100x30
+ ![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/GraphOfNodes.PNG
 ) 
 
 ##### To see the running Topic and Node : 
 
-![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rosnode.PNG = 100x30
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rosnode.PNG 
 ) 
 
-![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rostopic.PNG =100x30
+![myimage-alt-tag](https://github.com/Fatmahmh/Internship-with-Smart-methods/blob/master/CustomMessagePublisherSubscriber/rostopic.PNG 
 ) 
 
